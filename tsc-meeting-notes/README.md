@@ -7,3 +7,8 @@ TSC Meeting notes are (so far) maintained in a single google doc:
 * [TSC Meeting Notes Doc](https://docs.google.com/document/d/1od4RtWCmE-1xnUpaojnC8aUT4SMTsxQoaQrupLBB-dw/edit?usp=sharing)
 
 There is a template at the bottom that we follow for each new meeting.
+
+You can propose agenda items for the TSC in two ways:
+
+1. [Create a TSC Proposal issue] on this repository, or
+2. Discuss your issue proposal in `#technical-steering-committee` in Spack Slack (see [slack.spack.io](https://slack.spack.io))
