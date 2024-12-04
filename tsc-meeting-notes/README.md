@@ -10,5 +10,6 @@ There is a template at the bottom that we follow for each new meeting.
 
 You can propose agenda items for the TSC in two ways:
 
-1. [Create a TSC Proposal issue] on this repository, or
+1. [Create a TSC Proposal issue](https://github.com/spack/governance/issues/new?assignees=&labels=&projects=&template=tsc-proposal.md&title=%5BTSC+Agenda%5D)
+   on this repository, or
 2. Discuss your issue proposal in `#technical-steering-committee` in Spack Slack (see [slack.spack.io](https://slack.spack.io))
