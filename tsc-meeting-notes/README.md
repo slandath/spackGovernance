@@ -4,7 +4,7 @@ This page contains links to technical steering committee meetings notes.
 
 TSC Meeting notes are (so far) maintained in a single google doc:
 
-* [TSC Meeting Notes Doc](https://docs.google.com/document/d/1od4RtWCmE-1xnUpaojnC8aUT4SMTsxQoaQrupLBB-dw/edit?usp=sharing)
+* [TSC Meeting Notes Doc](https://docs.google.com/document/d/1VFATERpnQFLNYeXUyOQp9V3p_L3A5VQ8eWH-wH83sFA/edit?tab=t.0#heading=h.yepkxvfsodxs)
 
 There is a template at the bottom that we follow for each new meeting.
 
